@@ -1,0 +1,1 @@
+require 'validators/title_with_post'
